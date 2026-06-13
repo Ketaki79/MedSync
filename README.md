@@ -1,1 +1,1 @@
-# MedSync
+# MedSync - The Healthcare Platform
